@@ -37,7 +37,7 @@ section{
   
 }
 .back{
-  background-image: url(https://ieltskey.edu.vn/wp-content/uploads/2023/10/Taylor-Swift-The-Eras-Tour-an-dinh-ngay-mo-ban.jpg);
+  background-image: url(https://media1.popsugar-assets.com/files/thumbor/F4cGNEuHly7Ym43rndvSXFdh8wQ/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/07/23/758/n/1922398/c4f45692147d9651_GettyImages-1003510672/i/Taylor-Swift-Reputation-Concert-Rain-Photos.jpg);
   background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -194,4 +194,51 @@ footer{
   text-decoration: none;  
   top: 40px;
   
+}
+
+.links a {
+  font-family: 'Patrick Hand', cursive;
+  color: Violet;
+}
+
+.fa {
+  padding: 0px;
+  font-size: 2px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 10px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
